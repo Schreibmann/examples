@@ -7,8 +7,6 @@
 }
 
 body {
-  min-width: 480px;
-  max-width: 767px;
   background: #2d2c41;
   font-family: 'Open Sans', Arial, Helvetica, Sans-serif, Verdana, Tahoma;
   padding: 0 1.5%;
@@ -31,7 +29,7 @@ h1 {
   font-size: 24px;
   font-weight: 400;
   text-align: center;
-  margin-top: 80px;
+  margin-top: 20px;
 }
 
 h1 a {
