@@ -1,0 +1,40 @@
+@media (max-width: 767px) {
+
+	
+}
+
+/* iPhone landscape */
+@media (min-width: 480px) and (max-width: 767px) {
+	
+	
+}
+
+/* iPhone (portrait) */
+@media (max-width: 479px) {
+	
+	
+}
+
+/* iPad (portrait) */
+@media (min-width: 768px) and (max-width: 959px) {
+
+	
+}
+
+
+@media (min-width: 960px) and (max-width: 979px) {
+
+
+}
+
+
+@media (min-width: 980px) and (max-width: 1200px) {
+
+
+}
+
+
+@media (min-width: 1200px) {
+
+	
+}
