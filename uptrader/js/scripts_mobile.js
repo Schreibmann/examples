@@ -25,4 +25,7 @@ $(document).ready(function(){
 
 	var accordion = new Accordion($('#accordion'), false);
 
+	var intFrameWidth = window.innerWidth;
+	alert(intFrameWidth);
+
 });

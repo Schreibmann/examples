@@ -12,4 +12,5 @@ $(document).ready(function(){
 
 		$(".tabs").lightTabs(parseInt($(this).attr("data-id")));
 	});
+
 });
