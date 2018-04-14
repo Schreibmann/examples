@@ -171,7 +171,7 @@ h1 a {
 .background__bottom {
     width: 111%;
     height: 400px;
-    background: url(../img/mobile_bg.jpg) no-repeat;
+    background: url(../img/mobile_bg-min.jpg) no-repeat;
     background-position: center bottom;
     background-size: cover;
     margin-left: -5.5%;
